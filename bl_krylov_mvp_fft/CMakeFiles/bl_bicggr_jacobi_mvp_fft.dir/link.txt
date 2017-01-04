@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libbl_bicggr_jacobi_mvp_fft.a  CMakeFiles/bl_bicggr_jacobi_mvp_fft.dir/bl_bicggr_jacobi_mvp_fft.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libbl_bicggr_jacobi_mvp_fft.a

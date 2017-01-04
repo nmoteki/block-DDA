@@ -1,0 +1,17 @@
+cmake_minimum_required (VERSION 3.7.0)
+set(CMAKE_CXX_COMPILER "g++-6")
+set(CMAKE_CXX_FLAGS "-O3 -fopenmp -DNDEBUG -DEIGEN_NO_DEBUG -DEIGEN_FFTW_DEFAULT")
+include_directories(/Users/moteki/eigen_3_2_10)
+include_directories(/usr/local/include)
+link_directories(/usr/local/lib)
+link_libraries(fftw3)
+link_libraries(fftw3_omp)
+link_libraries(fftw3_threads)
+
+
+add_library(application_function application_function.cpp)
+add_library(BT_fft  BT_fft.cpp)
+add_library(BT_pad  BT_pad.cpp)
+add_library(BT_reconstruct BT_reconstruct.cpp)
+add_library(MBT_fft_init MBT_fft_init.cpp)
+add_library(MBT_fft_mvp MBT_fft_mvp.cpp)

@@ -1,0 +1,2160 @@
+####################### Start of result section #######################
+wl0_index	0
+target_index	0
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N8_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.00214466
+mass_particle	1.10879e-14
+density_particle	5.17
+ve_radius_particle	0.08
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0315186
+std_Csca	0.00218211
+mean_MAC	3.60883
+std_MAC	0.176446
+mean_SSA	0.44054
+std_SSA	0.0284462
+
+------------------- Computational info --------------------
+f	6
+nx	5
+ny	4
+nz	5
+num_element_cuboid	100
+num_element_occupy	8
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	2.98733
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	1
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N16_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.00402124
+mass_particle	2.07898e-14
+density_particle	5.17
+ve_radius_particle	0.0986485
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0542547
+std_Csca	0.00276722
+mean_MAC	2.95836
+std_MAC	0.0773952
+mean_SSA	0.46853
+std_SSA	0.0147615
+
+------------------- Computational info --------------------
+f	6
+nx	6
+ny	6
+nz	7
+num_element_cuboid	252
+num_element_occupy	15
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	2.33622
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	2
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N32_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.00804248
+mass_particle	4.15796e-14
+density_particle	5.17
+ve_radius_particle	0.124289
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0824606
+std_Csca	0.00614524
+mean_MAC	2.33929
+std_MAC	0.0336823
+mean_SSA	0.458349
+std_SSA	0.0187195
+
+------------------- Computational info --------------------
+f	6
+nx	11
+ny	9
+nz	7
+num_element_cuboid	693
+num_element_occupy	30
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	1.74958
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	3
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N64_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.0166211
+mass_particle	8.59312e-14
+density_particle	5.17
+ve_radius_particle	0.158316
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.136504
+std_Csca	0.00148446
+mean_MAC	1.9601
+std_MAC	0.0846063
+mean_SSA	0.447839
+std_SSA	0.0135092
+
+------------------- Computational info --------------------
+f	6
+nx	17
+ny	9
+nz	8
+num_element_cuboid	1224
+num_element_occupy	62
+DDA_solver_time	1
+DDA_solver_time_per_Ninc	0.25
+
+************************ End of result section ***********************
+MAC_mie	1.27386
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	4
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N128_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.0327061
+mass_particle	1.6909e-13
+density_particle	5.17
+ve_radius_particle	0.198387
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.2359
+std_Csca	0.0318498
+mean_MAC	1.54651
+std_MAC	0.15867
+mean_SSA	0.473425
+std_SSA	0.0128646
+
+------------------- Computational info --------------------
+f	6
+nx	18
+ny	18
+nz	13
+num_element_cuboid	4212
+num_element_occupy	122
+DDA_solver_time	6
+DDA_solver_time_per_Ninc	1.5
+
+************************ End of result section ***********************
+MAC_mie	0.952212
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	5
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N256_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.0662164
+mass_particle	3.42339e-13
+density_particle	5.17
+ve_radius_particle	0.250972
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.421681
+std_Csca	0.0173409
+mean_MAC	1.32285
+std_MAC	0.0520013
+mean_SSA	0.482159
+std_SSA	0.00188347
+
+------------------- Computational info --------------------
+f	6
+nx	24
+ny	19
+nz	17
+num_element_cuboid	7752
+num_element_occupy	247
+DDA_solver_time	23
+DDA_solver_time_per_Ninc	5.75
+
+************************ End of result section ***********************
+MAC_mie	0.706454
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	6
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N512_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.127607
+mass_particle	6.5973e-13
+density_particle	5.17
+ve_radius_particle	0.312317
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.741547
+std_Csca	0.0452682
+mean_MAC	1.18121
+std_MAC	0.0751139
+mean_SSA	0.487623
+std_SSA	0.00207021
+
+------------------- Computational info --------------------
+f	6
+nx	28
+ny	32
+nz	20
+num_element_cuboid	17920
+num_element_occupy	476
+DDA_solver_time	46
+DDA_solver_time_per_Ninc	11.5
+
+************************ End of result section ***********************
+MAC_mie	0.537145
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	7
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N1024_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.256555
+mass_particle	1.32639e-12
+density_particle	5.17
+ve_radius_particle	0.394182
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.19596
+std_Csca	0.0345587
+mean_MAC	0.929841
+std_MAC	0.0106526
+mean_SSA	0.492243
+std_SSA	0.00773714
+
+------------------- Computational info --------------------
+f	6
+nx	26
+ny	40
+nz	30
+num_element_cuboid	31200
+num_element_occupy	957
+DDA_solver_time	159
+DDA_solver_time_per_Ninc	39.75
+
+************************ End of result section ***********************
+MAC_mie	0.403296
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	8
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N2048_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	0.507748
+mass_particle	2.62506e-12
+density_particle	5.17
+ve_radius_particle	0.494903
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.4569
+std_Csca	0.2753
+mean_MAC	0.538466
+std_MAC	0.116225
+mean_SSA	0.508664
+std_SSA	0.0111009
+
+------------------- Computational info --------------------
+f	6
+nx	32
+ny	34
+nz	61
+num_element_cuboid	66368
+num_element_occupy	1894
+DDA_solver_time	347
+DDA_solver_time_per_Ninc	86.75
+
+************************ End of result section ***********************
+MAC_mie	0.306242
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	9
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N4096_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	1.01496
+mass_particle	5.24735e-12
+density_particle	5.17
+ve_radius_particle	0.623429
+
+----------------- Computed optical properties -----------------
+mean_Csca	2.91889
+std_Csca	0.230496
+mean_MAC	0.539843
+std_MAC	0.0495858
+mean_SSA	0.507698
+std_SSA	0.00330576
+
+------------------- Computational info --------------------
+f	6
+nx	60
+ny	48
+nz	59
+num_element_cuboid	169920
+num_element_occupy	3786
+DDA_solver_time	758
+DDA_solver_time_per_Ninc	189.5
+
+************************ End of result section ***********************
+MAC_mie	0.232743
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	10
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N8192_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	2.0385
+mass_particle	1.0539e-11
+density_particle	5.17
+ve_radius_particle	0.786576
+
+----------------- Computed optical properties -----------------
+mean_Csca	5.17896
+std_Csca	0.0452778
+mean_MAC	0.484627
+std_MAC	0.00847262
+mean_SSA	0.503495
+std_SSA	0.00221061
+
+------------------- Computational info --------------------
+f	6
+nx	80
+ny	91
+nz	61
+num_element_cuboid	444080
+num_element_occupy	7604
+DDA_solver_time	3245
+DDA_solver_time_per_Ninc	811.25
+
+************************ End of result section ***********************
+MAC_mie	0.177383
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	11
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N16384_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(3.88492,4.0195)
+mper_particle	(1,0)
+volume_particle	4.04242
+mass_particle	2.08993e-11
+density_particle	5.17
+ve_radius_particle	0.988214
+
+----------------- Computed optical properties -----------------
+mean_Csca	7.94325
+std_Csca	0.43439
+mean_MAC	0.365422
+std_MAC	0.0261022
+mean_SSA	0.510021
+std_SSA	0.00474418
+
+------------------- Computational info --------------------
+f	6
+nx	91
+ny	88
+nz	113
+num_element_cuboid	904904
+num_element_occupy	15079
+DDA_solver_time	7707
+DDA_solver_time_per_Ninc	1926.75
+
+************************ End of result section ***********************
+MAC_mie	0.136452
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	12
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N8_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.00214466
+mass_core	1.10879e-14
+density_core	5.17
+ve_radius_core	0.08
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.002624
+coat_to_core_vratio	1.2235
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0509507
+std_Csca	0.00411253
+mean_MAC	4.18451
+std_MAC	0.451912
+mean_SSA	0.52372
+std_SSA	0.0454713
+
+------------------- Computational info --------------------
+f	6
+nx	5
+ny	4
+nz	5
+num_element_cuboid	100
+num_element_occupy	49
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	2.98733
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	13
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N16_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.00402124
+mass_core	2.07898e-14
+density_core	5.17
+ve_radius_core	0.0986485
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.00832
+coat_to_core_vratio	2.06901
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.113961
+std_Csca	0.0157331
+mean_MAC	3.70799
+std_MAC	0.405575
+mean_SSA	0.595308
+std_SSA	0.0473625
+
+------------------- Computational info --------------------
+f	6
+nx	6
+ny	6
+nz	7
+num_element_cuboid	252
+num_element_occupy	145
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	2.33622
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	14
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N32_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.00804248
+mass_core	4.15796e-14
+density_core	5.17
+ve_radius_core	0.124289
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.03488
+coat_to_core_vratio	4.33697
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.283924
+std_Csca	0.0419276
+mean_MAC	4.32138
+std_MAC	0.372862
+mean_SSA	0.611047
+std_SSA	0.016412
+
+------------------- Computational info --------------------
+f	6
+nx	11
+ny	9
+nz	7
+num_element_cuboid	693
+num_element_occupy	575
+DDA_solver_time	1
+DDA_solver_time_per_Ninc	0.25
+
+************************ End of result section ***********************
+MAC_mie	1.74958
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	15
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N64_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.0166211
+mass_core	8.59312e-14
+density_core	5.17
+ve_radius_core	0.158316
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.05536
+coat_to_core_vratio	3.3307
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.367995
+std_Csca	0.0936583
+mean_MAC	2.95782
+std_MAC	0.0186322
+mean_SSA	0.584371
+std_SSA	0.0630917
+
+------------------- Computational info --------------------
+f	6
+nx	17
+ny	9
+nz	8
+num_element_cuboid	1224
+num_element_occupy	927
+DDA_solver_time	2
+DDA_solver_time_per_Ninc	0.5
+
+************************ End of result section ***********************
+MAC_mie	1.27386
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	16
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N128_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.0327061
+mass_core	1.6909e-13
+density_core	5.17
+ve_radius_core	0.198387
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.150656
+coat_to_core_vratio	4.60636
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.672671
+std_Csca	0.148394
+mean_MAC	2.99133
+std_MAC	0.0661351
+mean_SSA	0.565417
+std_SSA	0.0557326
+
+------------------- Computational info --------------------
+f	6
+nx	18
+ny	18
+nz	13
+num_element_cuboid	4212
+num_element_occupy	2476
+DDA_solver_time	13
+DDA_solver_time_per_Ninc	3.25
+
+************************ End of result section ***********************
+MAC_mie	0.952212
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	17
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N256_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.0662164
+mass_core	3.42339e-13
+density_core	5.17
+ve_radius_core	0.250972
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.277312
+coat_to_core_vratio	4.18797
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.776364
+std_Csca	0.123732
+mean_MAC	2.40582
+std_MAC	0.0985401
+mean_SSA	0.482884
+std_SSA	0.0322288
+
+------------------- Computational info --------------------
+f	6
+nx	24
+ny	19
+nz	17
+num_element_cuboid	7752
+num_element_occupy	4580
+DDA_solver_time	52
+DDA_solver_time_per_Ninc	13
+
+************************ End of result section ***********************
+MAC_mie	0.706454
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	18
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N512_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.127607
+mass_core	6.5973e-13
+density_core	5.17
+ve_radius_core	0.312317
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.48576
+coat_to_core_vratio	3.80668
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.2376
+std_Csca	0.215979
+mean_MAC	2.04813
+std_MAC	0.0615182
+mean_SSA	0.475359
+std_SSA	0.0408879
+
+------------------- Computational info --------------------
+f	6
+nx	28
+ny	32
+nz	20
+num_element_cuboid	17920
+num_element_occupy	8066
+DDA_solver_time	121
+DDA_solver_time_per_Ninc	30.25
+
+************************ End of result section ***********************
+MAC_mie	0.537145
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	19
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N1024_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.256555
+mass_core	1.32639e-12
+density_core	5.17
+ve_radius_core	0.394182
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.725824
+coat_to_core_vratio	2.82912
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.4751
+std_Csca	0.114371
+mean_MAC	1.37702
+std_MAC	0.0351867
+mean_SSA	0.44634
+std_SSA	0.014224
+
+------------------- Computational info --------------------
+f	6
+nx	26
+ny	40
+nz	30
+num_element_cuboid	31200
+num_element_occupy	12298
+DDA_solver_time	333
+DDA_solver_time_per_Ninc	83.25
+
+************************ End of result section ***********************
+MAC_mie	0.403296
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	20
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N2048_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	0.507748
+mass_core	2.62506e-12
+density_core	5.17
+ve_radius_core	0.494903
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	1.46528
+coat_to_core_vratio	2.88584
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.78301
+std_Csca	0.218425
+mean_MAC	0.985015
+std_MAC	0.0973444
+mean_SSA	0.407662
+std_SSA	0.00581736
+
+------------------- Computational info --------------------
+f	6
+nx	32
+ny	34
+nz	61
+num_element_cuboid	66368
+num_element_occupy	24789
+DDA_solver_time	758
+DDA_solver_time_per_Ninc	189.5
+
+************************ End of result section ***********************
+MAC_mie	0.306242
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	21
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N4096_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	1.01496
+mass_core	5.24735e-12
+density_core	5.17
+ve_radius_core	0.623429
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	3.10272
+coat_to_core_vratio	3.05699
+
+----------------- Computed optical properties -----------------
+mean_Csca	3.24203
+std_Csca	0.197209
+mean_MAC	0.899574
+std_MAC	0.0703206
+mean_SSA	0.407386
+std_SSA	0.00661244
+
+------------------- Computational info --------------------
+f	6
+nx	60
+ny	48
+nz	59
+num_element_cuboid	169920
+num_element_occupy	52266
+DDA_solver_time	2406
+DDA_solver_time_per_Ninc	601.5
+
+************************ End of result section ***********************
+MAC_mie	0.232743
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	22
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N8192_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	2.0385
+mass_core	1.0539e-11
+density_core	5.17
+ve_radius_core	0.786576
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	6.2649
+coat_to_core_vratio	3.07329
+
+----------------- Computed optical properties -----------------
+mean_Csca	5.35373
+std_Csca	0.0772796
+mean_MAC	0.787261
+std_MAC	0.0133006
+mean_SSA	0.392209
+std_SSA	0.00483498
+
+------------------- Computational info --------------------
+f	6
+nx	80
+ny	91
+nz	61
+num_element_cuboid	444080
+num_element_occupy	105493
+DDA_solver_time	9948
+DDA_solver_time_per_Ninc	2487
+
+************************ End of result section ***********************
+MAC_mie	0.177383
+
+####################### Start of result section #######################
+wl0_index	0
+target_index	23
+
+----------------- Incident wave properties -------------------
+wl0	0.3
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N16384_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(3.88492,4.0195)
+mper_core	(1,0)
+volume_core	4.04242
+mass_core	2.08993e-11
+density_core	5.17
+ve_radius_core	0.988214
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	11.2388
+coat_to_core_vratio	2.78021
+
+----------------- Computed optical properties -----------------
+mean_Csca	7.8651
+std_Csca	0.450299
+mean_MAC	0.579669
+std_MAC	0.040823
+mean_SSA	0.393814
+std_SSA	0.00391204
+
+------------------- Computational info --------------------
+f	6
+nx	91
+ny	88
+nz	113
+num_element_cuboid	904904
+num_element_occupy	190685
+DDA_solver_time	25645
+DDA_solver_time_per_Ninc	6411.25
+
+************************ End of result section ***********************
+MAC_mie	0.136452
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	0
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N8_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.00214466
+mass_particle	1.10879e-14
+density_particle	5.17
+ve_radius_particle	0.08
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0283914
+std_Csca	0.00279623
+mean_MAC	3.54487
+std_MAC	0.130841
+mean_SSA	0.418878
+std_SSA	0.0327449
+
+------------------- Computational info --------------------
+f	6
+nx	5
+ny	4
+nz	5
+num_element_cuboid	100
+num_element_occupy	8
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	3.06204
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	1
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N16_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.00402124
+mass_particle	2.07898e-14
+density_particle	5.17
+ve_radius_particle	0.0986485
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0515185
+std_Csca	0.00260294
+mean_MAC	2.84272
+std_MAC	0.346806
+mean_SSA	0.46697
+std_SSA	0.0230794
+
+------------------- Computational info --------------------
+f	6
+nx	6
+ny	6
+nz	7
+num_element_cuboid	252
+num_element_occupy	15
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	2.41127
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	2
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N32_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.00804248
+mass_particle	4.15796e-14
+density_particle	5.17
+ve_radius_particle	0.124289
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0715666
+std_Csca	0.00868417
+mean_MAC	2.16037
+std_MAC	0.187583
+mean_SSA	0.442998
+std_SSA	0.0349229
+
+------------------- Computational info --------------------
+f	6
+nx	11
+ny	9
+nz	7
+num_element_cuboid	693
+num_element_occupy	30
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	1.90657
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	3
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N64_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.0166211
+mass_particle	8.59312e-14
+density_particle	5.17
+ve_radius_particle	0.158316
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.120013
+std_Csca	0.00801537
+mean_MAC	1.82057
+std_MAC	0.0682907
+mean_SSA	0.433959
+std_SSA	0.0250837
+
+------------------- Computational info --------------------
+f	6
+nx	17
+ny	9
+nz	8
+num_element_cuboid	1224
+num_element_occupy	62
+DDA_solver_time	2
+DDA_solver_time_per_Ninc	0.5
+
+************************ End of result section ***********************
+MAC_mie	1.38276
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	4
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N128_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.0327061
+mass_particle	1.6909e-13
+density_particle	5.17
+ve_radius_particle	0.198387
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.233545
+std_Csca	0.0275407
+mean_MAC	1.60816
+std_MAC	0.131807
+mean_SSA	0.461357
+std_SSA	0.0101308
+
+------------------- Computational info --------------------
+f	6
+nx	18
+ny	18
+nz	13
+num_element_cuboid	4212
+num_element_occupy	122
+DDA_solver_time	11
+DDA_solver_time_per_Ninc	2.75
+
+************************ End of result section ***********************
+MAC_mie	1.02257
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	5
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N256_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.0662164
+mass_particle	3.42339e-13
+density_particle	5.17
+ve_radius_particle	0.250972
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.420036
+std_Csca	0.0146477
+mean_MAC	1.34486
+std_MAC	0.0747668
+mean_SSA	0.477262
+std_SSA	0.0054002
+
+------------------- Computational info --------------------
+f	6
+nx	24
+ny	19
+nz	17
+num_element_cuboid	7752
+num_element_occupy	247
+DDA_solver_time	36
+DDA_solver_time_per_Ninc	9
+
+************************ End of result section ***********************
+MAC_mie	0.753481
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	6
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N512_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.127607
+mass_particle	6.5973e-13
+density_particle	5.17
+ve_radius_particle	0.312317
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.755898
+std_Csca	0.0400637
+mean_MAC	1.18185
+std_MAC	0.0674894
+mean_SSA	0.492287
+std_SSA	0.00484148
+
+------------------- Computational info --------------------
+f	6
+nx	28
+ny	32
+nz	20
+num_element_cuboid	17920
+num_element_occupy	476
+DDA_solver_time	85
+DDA_solver_time_per_Ninc	21.25
+
+************************ End of result section ***********************
+MAC_mie	0.569661
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	7
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N1024_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.256555
+mass_particle	1.32639e-12
+density_particle	5.17
+ve_radius_particle	0.394182
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.21345
+std_Csca	0.0564424
+mean_MAC	0.941114
+std_MAC	0.028223
+mean_SSA	0.492812
+std_SSA	0.0142346
+
+------------------- Computational info --------------------
+f	6
+nx	26
+ny	40
+nz	30
+num_element_cuboid	31200
+num_element_occupy	957
+DDA_solver_time	195
+DDA_solver_time_per_Ninc	48.75
+
+************************ End of result section ***********************
+MAC_mie	0.425205
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	8
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N2048_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	0.507748
+mass_particle	2.62506e-12
+density_particle	5.17
+ve_radius_particle	0.494903
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.45749
+std_Csca	0.273694
+mean_MAC	0.573752
+std_MAC	0.112286
+mean_SSA	0.492149
+std_SSA	0.00816672
+
+------------------- Computational info --------------------
+f	6
+nx	32
+ny	34
+nz	61
+num_element_cuboid	66368
+num_element_occupy	1894
+DDA_solver_time	406
+DDA_solver_time_per_Ninc	101.5
+
+************************ End of result section ***********************
+MAC_mie	0.320967
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	9
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N4096_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	1.01496
+mass_particle	5.24735e-12
+density_particle	5.17
+ve_radius_particle	0.623429
+
+----------------- Computed optical properties -----------------
+mean_Csca	2.89149
+std_Csca	0.22028
+mean_MAC	0.554767
+std_MAC	0.0527127
+mean_SSA	0.498622
+std_SSA	0.00479726
+
+------------------- Computational info --------------------
+f	6
+nx	60
+ny	48
+nz	59
+num_element_cuboid	169920
+num_element_occupy	3786
+DDA_solver_time	1103
+DDA_solver_time_per_Ninc	275.75
+
+************************ End of result section ***********************
+MAC_mie	0.242594
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	10
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N8192_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	2.0385
+mass_particle	1.0539e-11
+density_particle	5.17
+ve_radius_particle	0.786576
+
+----------------- Computed optical properties -----------------
+mean_Csca	5.09864
+std_Csca	0.11723
+mean_MAC	0.497366
+std_MAC	0.00753229
+mean_SSA	0.493052
+std_SSA	0.00517612
+
+------------------- Computational info --------------------
+f	6
+nx	80
+ny	91
+nz	61
+num_element_cuboid	444080
+num_element_occupy	7604
+DDA_solver_time	4168
+DDA_solver_time_per_Ninc	1042
+
+************************ End of result section ***********************
+MAC_mie	0.183939
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	11
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_0_agg_N16384_kf1.0_Df2.8.out
+is_homogeneous	1
+eper_particle	(5.152,3.904)
+mper_particle	(1,0)
+volume_particle	4.04242
+mass_particle	2.08993e-11
+density_particle	5.17
+ve_radius_particle	0.988214
+
+----------------- Computed optical properties -----------------
+mean_Csca	7.93748
+std_Csca	0.423766
+mean_MAC	0.370276
+std_MAC	0.0252287
+mean_SSA	0.506508
+std_SSA	0.00356176
+
+------------------- Computational info --------------------
+f	6
+nx	91
+ny	88
+nz	113
+num_element_cuboid	904904
+num_element_occupy	15079
+DDA_solver_time	9686
+DDA_solver_time_per_Ninc	2421.5
+
+************************ End of result section ***********************
+MAC_mie	0.140837
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	12
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N8_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.00214466
+mass_core	1.10879e-14
+density_core	5.17
+ve_radius_core	0.08
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.002624
+coat_to_core_vratio	1.2235
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.0509075
+std_Csca	0.00640349
+mean_MAC	4.27622
+std_MAC	0.411164
+mean_SSA	0.516984
+std_SSA	0.0553909
+
+------------------- Computational info --------------------
+f	6
+nx	5
+ny	4
+nz	5
+num_element_cuboid	100
+num_element_occupy	49
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	3.06204
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	13
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N16_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.00402124
+mass_core	2.07898e-14
+density_core	5.17
+ve_radius_core	0.0986485
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.00832
+coat_to_core_vratio	2.06901
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.102057
+std_Csca	0.00729559
+mean_MAC	3.45871
+std_MAC	0.168282
+mean_SSA	0.586223
+std_SSA	0.0264278
+
+------------------- Computational info --------------------
+f	6
+nx	6
+ny	6
+nz	7
+num_element_cuboid	252
+num_element_occupy	145
+DDA_solver_time	0
+DDA_solver_time_per_Ninc	0
+
+************************ End of result section ***********************
+MAC_mie	2.41127
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	14
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N32_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.00804248
+mass_core	4.15796e-14
+density_core	5.17
+ve_radius_core	0.124289
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.03488
+coat_to_core_vratio	4.33697
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.24508
+std_Csca	0.0259584
+mean_MAC	3.89543
+std_MAC	0.0455172
+mean_SSA	0.6009
+std_SSA	0.025536
+
+------------------- Computational info --------------------
+f	6
+nx	11
+ny	9
+nz	7
+num_element_cuboid	693
+num_element_occupy	575
+DDA_solver_time	1
+DDA_solver_time_per_Ninc	0.25
+
+************************ End of result section ***********************
+MAC_mie	1.90657
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	15
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N64_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.0166211
+mass_core	8.59312e-14
+density_core	5.17
+ve_radius_core	0.158316
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.05536
+coat_to_core_vratio	3.3307
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.287646
+std_Csca	0.0376841
+mean_MAC	3.17665
+std_MAC	0.059607
+mean_SSA	0.51138
+std_SSA	0.0371769
+
+------------------- Computational info --------------------
+f	6
+nx	17
+ny	9
+nz	8
+num_element_cuboid	1224
+num_element_occupy	927
+DDA_solver_time	4
+DDA_solver_time_per_Ninc	1
+
+************************ End of result section ***********************
+MAC_mie	1.38276
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	16
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N128_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.0327061
+mass_core	1.6909e-13
+density_core	5.17
+ve_radius_core	0.198387
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.150656
+coat_to_core_vratio	4.60636
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.583323
+std_Csca	0.112725
+mean_MAC	2.78903
+std_MAC	0.104719
+mean_SSA	0.549062
+std_SSA	0.0508603
+
+------------------- Computational info --------------------
+f	6
+nx	18
+ny	18
+nz	13
+num_element_cuboid	4212
+num_element_occupy	2476
+DDA_solver_time	18
+DDA_solver_time_per_Ninc	4.5
+
+************************ End of result section ***********************
+MAC_mie	1.02257
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	17
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N256_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.0662164
+mass_core	3.42339e-13
+density_core	5.17
+ve_radius_core	0.250972
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.277312
+coat_to_core_vratio	4.18797
+
+----------------- Computed optical properties -----------------
+mean_Csca	0.850788
+std_Csca	0.168924
+mean_MAC	2.24896
+std_MAC	0.0321131
+mean_SSA	0.52081
+std_SSA	0.049839
+
+------------------- Computational info --------------------
+f	6
+nx	24
+ny	19
+nz	17
+num_element_cuboid	7752
+num_element_occupy	4580
+DDA_solver_time	57
+DDA_solver_time_per_Ninc	14.25
+
+************************ End of result section ***********************
+MAC_mie	0.753481
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	18
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N512_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.127607
+mass_core	6.5973e-13
+density_core	5.17
+ve_radius_core	0.312317
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.48576
+coat_to_core_vratio	3.80668
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.26029
+std_Csca	0.128779
+mean_MAC	1.84369
+std_MAC	0.0271299
+mean_SSA	0.507878
+std_SSA	0.0280403
+
+------------------- Computational info --------------------
+f	6
+nx	28
+ny	32
+nz	20
+num_element_cuboid	17920
+num_element_occupy	8066
+DDA_solver_time	122
+DDA_solver_time_per_Ninc	30.5
+
+************************ End of result section ***********************
+MAC_mie	0.569661
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	19
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N1024_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.256555
+mass_core	1.32639e-12
+density_core	5.17
+ve_radius_core	0.394182
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	0.725824
+coat_to_core_vratio	2.82912
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.6419
+std_Csca	0.073173
+mean_MAC	1.3014
+std_MAC	0.0362117
+mean_SSA	0.487386
+std_SSA	0.0103425
+
+------------------- Computational info --------------------
+f	6
+nx	26
+ny	40
+nz	30
+num_element_cuboid	31200
+num_element_occupy	12298
+DDA_solver_time	339
+DDA_solver_time_per_Ninc	84.75
+
+************************ End of result section ***********************
+MAC_mie	0.425205
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	20
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N2048_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	0.507748
+mass_core	2.62506e-12
+density_core	5.17
+ve_radius_core	0.494903
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	1.46528
+coat_to_core_vratio	2.88584
+
+----------------- Computed optical properties -----------------
+mean_Csca	1.95676
+std_Csca	0.186796
+mean_MAC	0.913311
+std_MAC	0.0874169
+mean_SSA	0.449422
+std_SSA	0.00772849
+
+------------------- Computational info --------------------
+f	6
+nx	32
+ny	34
+nz	61
+num_element_cuboid	66368
+num_element_occupy	24789
+DDA_solver_time	781
+DDA_solver_time_per_Ninc	195.25
+
+************************ End of result section ***********************
+MAC_mie	0.320967
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	21
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N4096_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	1.01496
+mass_core	5.24735e-12
+density_core	5.17
+ve_radius_core	0.623429
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	3.10272
+coat_to_core_vratio	3.05699
+
+----------------- Computed optical properties -----------------
+mean_Csca	3.69062
+std_Csca	0.350577
+mean_MAC	0.841632
+std_MAC	0.045629
+mean_SSA	0.454656
+std_SSA	0.0115697
+
+------------------- Computational info --------------------
+f	6
+nx	60
+ny	48
+nz	59
+num_element_cuboid	169920
+num_element_occupy	52266
+DDA_solver_time	2354
+DDA_solver_time_per_Ninc	588.5
+
+************************ End of result section ***********************
+MAC_mie	0.242594
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	22
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N8192_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	2.0385
+mass_core	1.0539e-11
+density_core	5.17
+ve_radius_core	0.786576
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	6.2649
+coat_to_core_vratio	3.07329
+
+----------------- Computed optical properties -----------------
+mean_Csca	5.9447
+std_Csca	0.121597
+mean_MAC	0.718399
+std_MAC	0.0158936
+mean_SSA	0.439835
+std_SSA	0.00104996
+
+------------------- Computational info --------------------
+f	6
+nx	80
+ny	91
+nz	61
+num_element_cuboid	444080
+num_element_occupy	105493
+DDA_solver_time	8881
+DDA_solver_time_per_Ninc	2220.25
+
+************************ End of result section ***********************
+MAC_mie	0.183939
+
+####################### Start of result section #######################
+wl0_index	1
+target_index	23
+
+----------------- Incident wave properties -------------------
+wl0	0.4
+N_inc	4
+
+-------------------- Medium properties -----------------------
+eper_medium	(1,0)
+mper_medium	(1,0)
+
+-------------------- Target properties ----------------------
+target_fname	DDA_target_2_agg_N16384_kf1.0_Df2.8.out
+is_homogeneous	0
+eper_core	(5.152,3.904)
+mper_core	(1,0)
+volume_core	4.04242
+mass_core	2.08993e-11
+density_core	5.17
+ve_radius_core	0.988214
+eper_coat	(2.25,0)
+mper_coat	(1,0)
+volume_coat	11.2388
+coat_to_core_vratio	2.78021
+
+----------------- Computed optical properties -----------------
+mean_Csca	8.76953
+std_Csca	0.451073
+mean_MAC	0.524895
+std_MAC	0.0415223
+mean_SSA	0.444607
+std_SSA	0.00750505
+
+------------------- Computational info --------------------
+f	6
+nx	91
+ny	88
+nz	113
+num_element_cuboid	904904
+num_element_occupy	190685
+DDA_solver_time	22002
+DDA_solver_time_per_Ninc	5500.5
+
+************************ End of result section ***********************
+MAC_mie	0.140837
+

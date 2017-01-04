@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/moteki/C++/block-DDA/Material.cpp
+Material.hpp
+/Users/moteki/C++/block-DDA/Material.hpp
+Material_Name.hpp
+/Users/moteki/C++/block-DDA/Material_Name.hpp
+
+/Users/moteki/C++/block-DDA/Material.hpp
+Material_Name.hpp
+/Users/moteki/C++/block-DDA/Material_Name.hpp
+iostream
+-
+vector
+-
+complex
+-
+string
+-
+fstream
+-
+sstream
+-
+
+/Users/moteki/C++/block-DDA/Material_Name.hpp
+

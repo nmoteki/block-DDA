@@ -1,0 +1,6 @@
+#ifndef INCLUDED_MATERIAL_NAME
+#define INCLUDED_MATERIAL_NAME
+
+enum class Material_Name {VACUUM, CONSTANT, WATER, ICE, BC, MAGNETITE};
+
+#endif

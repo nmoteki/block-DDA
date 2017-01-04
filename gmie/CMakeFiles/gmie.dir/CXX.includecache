@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/moteki/C++/block-DDA/gmie/gmie.cpp
+cmath
+-
+complex
+-
+vector
+-
+limits
+-
+tuple
+-
+gmie.hpp
+/Users/moteki/C++/block-DDA/gmie/gmie.hpp
+
+/Users/moteki/C++/block-DDA/gmie/gmie.hpp
+
